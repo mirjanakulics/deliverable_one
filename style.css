@@ -1,6 +1,6 @@
 * {
+margin-top: 10px;
 font-family: 'Fira Sans', sans-serif;
-
 }
 
 body {
@@ -15,7 +15,7 @@ button {
   width: 80vw;
 }
 
-button: hover {
+button:hover {
   background-color: #CCC;
 }
 
@@ -54,9 +54,9 @@ h4 {
 
 body {
   background-image: url("bulldog.jpg");
-  background-position: center;
+  background-position: top center;
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 80% 200%;
 }
 
 .nav-cont {
